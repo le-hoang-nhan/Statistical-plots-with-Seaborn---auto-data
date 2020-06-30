@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Statistical-plots-with-Seaborn
 
 See my presentation PowerPoint here: 
 Statistical plots auto data
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EVpg8G5t3XxHpGWbcZpRijMBp9NE08pEqcYipe2btxr1Jw?e=YT0x8j
+https://drive.google.com/file/d/1E1hxT6YLGI0SUG_mKQysVRawoafUPsQY/view?usp=sharing
 
 # Statistical-plots-with-Seaborn---auto-data
 use Seaborn tools for computing and visualizing linear regressions as well as tools for visualizing univariate distributions (e.g., strip, swarm, and violin plots) and multivariate distributions (e.g., joint plots, pair plots, and heatmaps).
